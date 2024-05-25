@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nithinreddy03" alt="nithinreddy03" /></a> </p>
 
+<img width="330" alt="Screenshot 2024-05-25 at 8 05 38 PM" src="https://github.com/nithinreddy03/nithinreddy03/assets/122984348/56bb3f10-b519-4479-abfd-85c667d40f61">
+
 - 🔭 I’m currently working on **Devops**
 
 - 🌱 I’m currently learning **AWS**
