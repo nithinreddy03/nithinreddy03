@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm M NITHIN REDDY</h1>
-<h3 align="center">artificial intelligence, data science, machine learning, web development, and cyber security are the main parts</h3>
+<h3 align="center">CYBER SECURITY IS MY MAIN STREAM</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nithinreddy03" alt="nithinreddy03" /></a> </p>
 
