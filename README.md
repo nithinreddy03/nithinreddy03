@@ -8,14 +8,15 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- 👯 I’m looking to collaborate on **OpenSource projects** <img width="330" alt="Screenshot 2024-05-25 at 8 05 38 PM" src="https://github.com/nithinreddy03/nithinreddy03/assets/122984348/56bb3f10-b519-4479-abfd-85c667d40f61">
-
+- 👯 I’m looking to collaborate on **OpenSource projects** 
 
 - 🤝 I’m looking for a team to Build **AI model**
 
 - 📫 How to reach me **madathalanithinreddy@gmail.com**
 
 - ⚡ Fun fact **Play cricket when i am bored**
+
+  <img width="330" alt="Screenshot 2024-05-25 at 8 05 38 PM" src="https://github.com/nithinreddy03/nithinreddy03/assets/122984348/56bb3f10-b519-4479-abfd-85c667d40f61">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
